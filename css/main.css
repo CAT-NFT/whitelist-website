@@ -27,6 +27,11 @@
   src: url("../fonts/Sora/Sora-Medium.ttf");
 }
 
+@font-face {
+  font-family: Montserrat-BoldItalic;
+  src: url("../fonts/montserrat/Montserrat-BoldItalic.ttf");
+}
+
 
 /* @font-face {
   font-family: Sora-Regular;
@@ -244,7 +249,7 @@ iframe {
 
 .contact1-form-title {
   display: block;
-  font-family: MFred;
+  font-family: Montserrat-BoldItalic;
   font-size: 3.4em;
   color: #ffffff;
   line-height: 1.2;
