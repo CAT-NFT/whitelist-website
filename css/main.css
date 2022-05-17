@@ -31,6 +31,10 @@
   font-family: Montserrat-BoldItalic;
   src: url("../fonts/montserrat/Montserrat-BoldItalic.ttf");
 }
+@font-face {
+  font-family: Montserrat-Italic;
+  src: url("../fonts/montserrat/Montserrat-Italic.ttf");
+}
 
 
 /* @font-face {
@@ -249,7 +253,7 @@ iframe {
 
 .contact1-form-title {
   display: block;
-  font-family: Montserrat-BoldItalic;
+  font-family: MFred;
   font-size: 3.4em;
   color: #ffffff;
   line-height: 1.2;
@@ -287,7 +291,7 @@ textarea.input1 + .shadow-input1 {
   display: block;
   width: 100%;
   background: #e6e6e6;
-  font-family: Sora-Bold;
+  font-family: Montserrat-Italic;
   font-size: 15px;
   line-height: 1.5;
   color: #666666;
